@@ -1,9 +1,9 @@
 # SCAlertPicker
 
-<!--[![Travis CI](https://travis-ci.org/luosch/SCGridTable.svg?branch=master)](https://travis-ci.org/luosch/SCAvatarBrowser)
-[![Version](https://img.shields.io/cocoapods/v/SCGridTable.svg?style=flat)](http://cocoadocs.org/docsets/SCGridTable/)
-[![Pod Platform](http://img.shields.io/cocoapods/p/SCGridTable.svg?style=flat)](http://cocoadocs.org/docsets/SCGridTable/)
-[![License](https://img.shields.io/cocoapods/l/SCGridTable.svg?style=flat)](https://github.com/luosch/SCGridTable/blob/master/LICENSE)-->
+[![Travis CI](https://travis-ci.org/luosch/SCAlertPicker.svg?branch=master)](https://travis-ci.org/luosch/SCAlertPicker)
+[![Version](https://img.shields.io/cocoapods/v/SCAlertPicker.svg?style=flat)](http://cocoadocs.org/docsets/SCAlertPicker/)
+[![Pod Platform](http://img.shields.io/cocoapods/p/SCAlertPicker.svg?style=flat)](http://cocoadocs.org/docsets/SCAlertPicker/)
+[![License](https://img.shields.io/cocoapods/l/SCAlertPicker.svg?style=flat)](https://github.com/luosch/SCAlertPicker/blob/master/LICENSE)
 
 ## Overview
 
