@@ -12,11 +12,11 @@
 
 @interface SCAlertPicker : UIView <UIPickerViewDataSource, UIPickerViewDelegate>
 
-@property (strong, nonatomic) id<SCAlertPickerDelegte> delegate;
+@property (weak, nonatomic) id<SCAlertPickerDelegte> delegate;
 @property (strong, nonatomic) UIPickerView *picker;
 @property (strong, nonatomic) UIDatePicker *datePicker;
 @property (strong, nonatomic) NSMutableArray *valueIndex;
-@property (strong, nonatomic) NSArray *pickerData;
+@property (copy, nonatomic) NSArray *pickerData;
 @property (strong, nonatomic) UIButton *submitButton;
 @property (strong, nonatomic) UIWindow *alertWindow;
 

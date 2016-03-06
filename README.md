@@ -16,4 +16,4 @@
 
 ## License
 
-All source code is licensed under the [MIT License](https://raw.githubusercontent.com/luosch/SCGridTable/master/LICENSE).
+All source code is licensed under the [MIT License](https://raw.githubusercontent.com/luosch/SCAlertPicker/master/LICENSE).
