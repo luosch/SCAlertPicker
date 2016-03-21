@@ -5,6 +5,10 @@
 [![Pod Platform](http://img.shields.io/cocoapods/p/SCAlertPicker.svg?style=flat)](http://cocoadocs.org/docsets/SCAlertPicker/)
 [![License](https://img.shields.io/cocoapods/l/SCAlertPicker.svg?style=flat)](https://github.com/luosch/SCAlertPicker/blob/master/LICENSE)
 
+## Screenshots
+
+![](https://raw.githubusercontent.com/luosch/SCAlertPicker/master/Screenshots/demo.gif)
+
 ## Overview
 
 **`SCAlertPicker`** is a uesful and lightweight tool for iOS APP, which show picker in an alertview
